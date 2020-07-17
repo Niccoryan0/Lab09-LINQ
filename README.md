@@ -4,7 +4,7 @@
 ----
 
 ## Description
-### This console application shows off several LINQ queries being used to query data from a JSON file using NewtonSoftJson.
+### This console application shows off several LINQ queries being used to query data from a JSON file using NewtonSoftJson and filter it to certain specifications.
 ---
 
 ### Getting Started
@@ -26,14 +26,10 @@ Then select and open ```Lab09_LINQ.sln```
 ---
 
 ### Visuals
-#### App start page
-![Start view](assets/CollectionsStart.png)
-#### Viewing all books in library
-![Books view](assets/CollectionsView1.png)
-#### Borrowing a book
-![Borrow view](assets/CollectionsBorrow.png)
-#### Returning a book
-![Return view](assets/CollectionsReturn.png)
+#### First filter method output
+![Start view](assets/Lab09-1.png)
+#### Consolidated methods output
+![Start view](assets/Lab09-2.png)
 
 ---
 
