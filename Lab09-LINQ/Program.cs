@@ -10,6 +10,9 @@ namespace Lab09_LINQ
 {
     class Program
     {
+        /// <summary>
+        /// JsonData after parsing, classes were taken from: https://json2csharp.com/
+        /// </summary>
         public static Root JsonData { get; set; }
 
         /// <summary>
